@@ -2,8 +2,7 @@
 
 Raw retail sales data taken through the full analytics process: clean it in Excel, query it in SQL, model it in Power BI, and turn the results into recommendations for management.
 
-![Executive dashboard](Report/Dashboard_Screenshot.png)
-
+![Executive dashboard](Norysca_Final_Business_Analytics_Project/Report/Dashboard_Screenshot.png)
 ## Key results
 
 - **€1,552,071** in sales from **11,971 orders** and **25 customers**, at **€129.65** per order.
